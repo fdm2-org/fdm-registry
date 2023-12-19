@@ -1,7 +1,15 @@
-# RDM Registry
+# FDM Registry
 
-- [**asio-cmake**](http://uav.radar-mms.com/gitlab/test/utility/asio-cmake-wrapper/-/releases/1.28.0): latest <u>**1.28.0**</u> (*sources/any*)
-  
-- [**expected**](http://uav.radar-mms.com/gitlab/test/utility/expected) latest <u>**1.0.1**</u> (*sources/any*)
-- [**fmt**](http://uav.radar-mms.com/gitlab/test/utility/fmtlib) latest <u>**10.1.1**</u> (*sources/any*)
-- [**qol**](http://uav.radar-mms.com/gitlab/test/utility/qol) latest <u>**1.2.1**</u> (*sources/any*)
+This is a place where packages live.
+
+## Index:
+
+<table>
+<caption>Available packages</caption>
+<tr><th>Name               </th><th>Latest     </th><th>Distributions </th><th>Platforms    </th><th>All versions      </th></tr>
+<tr><td><b>asio-cmake</b></td><td><b><u>1.28.0</u></b></td><td>sources</td><td>any</td><td>1.28.0</td></tr>
+<tr><td><b>expected</b></td><td><b><u>1.0.1</u></b></td><td>sources</td><td>any</td><td>1.0.1</td></tr>
+<tr><td><b>fmt</b></td><td><b><u>10.1.1</u></b></td><td>sources</td><td>any</td><td>10.1.1</td></tr>
+<tr><td><b>qol</b></td><td><b><u>1.2.1</u></b></td><td>sources</td><td>any</td><td>1.2.1</td></tr>
+</table>
+
